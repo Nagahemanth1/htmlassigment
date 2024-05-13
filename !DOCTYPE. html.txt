@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>registration form</title>
+</head>
+<body>
+<h1>student registration form<h1>
+<form>
+<label>first name</label>
+<input type="text"required>
+<br>
+<label>email:</label>
+<input type="email"required>
+<br>
+<label>password:</label>
+<input type="password"required>
+<br>
+<label>re-type password:</label>
+<input type="password"required>
+<br>
+<label>contant:</label>
+<input type="text"maxlangth="10"required>
+<br>
+<label>gender:</label>
+<input type ="radio"name="render">
+<label for="radio"name="gender">
+<input type="male">male</label>
+<label for="radio"name="gender">
+
+
+</html>
